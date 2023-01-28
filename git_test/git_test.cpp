@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello11 World!\n";
+    std::cout << "Hello World!\n";
     system("pause");
 }
 
